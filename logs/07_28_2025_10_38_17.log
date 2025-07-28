@@ -1,0 +1,7 @@
+[ 2025-07-28 10:38:17,791 ] 20 network_security.logging.logger - INFO - Entered the try block
+[ 2025-07-28 10:38:17,791 ] 24 network_security.logging.logger - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "B:\AI & ML\Projects\network_security\exception\exception.py", line 21, in <module>
+    a = 1 / 0  # This will raise a ZeroDivisionError
+        ~~^~~
+ZeroDivisionError: division by zero
